@@ -38,19 +38,6 @@ Proyek ini saya buat untuk menerapkan dasar-dasar HTML, seperti struktur dokumen
 | `<b>`, `<small>` | Teks tebal dan teks kecil |
 | `<hr>`, `<br>` | Garis pemisah antarbagian dan baris baru |
 
-## Struktur Folder
-
-```
-Prak_DW_A_4525210051_Muzaki Arifin/
-├── Tugasprak.html
-├── contohprogram.html
-├── quiz.html
-├── README.md
-└── img/
-    ├── IMATIKA.jpg
-    └── gedungtek.jpg
-```
-
 ## Cara Menjalankan
 
 1. Buka file `Tugasprak.html`.
@@ -58,4 +45,5 @@ Prak_DW_A_4525210051_Muzaki Arifin/
 3. Buka `Tugasprak.html` di browser (Chrome, Firefox, dll.).
 
 ## Hasil Run Web
-![Hasil Run Web](https://github.com/user-attachments/assets/dd8da5c6-d30c-4332-a575-55f59181ae70)
+
+![Hasil Run Web](hasil.png)
