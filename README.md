@@ -58,5 +58,4 @@ Prak_DW_A_4525210051_Muzaki Arifin/
 3. Buka `Tugasprak.html` di browser (Chrome, Firefox, dll.).
 
 ## Hasil Run Web
-
-<!-- Tempel screenshot hasil di sini, misalnya: ![Hasil Run](img/hasil.png) -->
+![Hasil Run Web](https://github.com/user-attachments/assets/dd8da5c6-d30c-4332-a575-55f59181ae70)
